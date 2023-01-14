@@ -1,0 +1,11 @@
+{
+    "webhookUrl": "https://canary.discord.com/api/webhooks/1033704227962355736/sG95EMBxdCcGelIFQ0QkjAIOLREF1EBaSA0xbdc8cnm8tK02X5tkuOlfz6qKezqcCvSc",
+    "framework": "none",
+    "commandName": "screenshot",
+    "commandPermission": "request.screenshot",
+    "hiddenIdentifiers": [],
+    "screenshotOptions": {
+        "encoding": "jpg",
+        "quality": 0.92
+    }
+}
